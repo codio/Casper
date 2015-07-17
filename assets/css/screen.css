@@ -1123,8 +1123,8 @@ body:not(.post-template) .post-title {
 }
 
 .tag-head.main-header {
-    height: 40vh;
-    min-height: 180px;
+    height: 65px;
+    min-height: 65px;
 }
 
 .author-head.main-header {
